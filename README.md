@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/nicknjagi/column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://nicknjagi.github.io/column-preview-card-component/](https://nicknjagi.github.io/column-preview-card-component/)
 
 ## My process
 
